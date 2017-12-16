@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Audrain</title>
+    <link>http://david.audrain.free.fr/</link>
+    <description>Recent content on David Audrain</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright &amp;copy; 2017 - David Audrain</copyright>
+    <lastBuildDate>Wed, 13 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://david.audrain.free.fr/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>http://david.audrain.free.fr/about/</link>
+      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://david.audrain.free.fr/about/</guid>
+      <description>I am David Audrain. I live in Québec, QC, Canada.
+I&amp;rsquo;ve been writting code since 1988.</description>
+    </item>
+    
+  </channel>
+</rss>
