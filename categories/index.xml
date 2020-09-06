@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on David Audrain</title>
@@ -6,10 +6,20 @@
     <description>Recent content in Categories on David Audrain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2017-2019 - David Audrain</copyright>
+    <copyright>Copyright &amp;copy; 2017-2020 - David Audrain</copyright>
+    <lastBuildDate>Sun, 06 Sep 2020 22:39:19 +0200</lastBuildDate>
     
 	<atom:link href="https://daudrain.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>management</title>
+      <link>https://daudrain.github.io/categories/management/</link>
+      <pubDate>Sun, 06 Sep 2020 22:39:19 +0200</pubDate>
+      
+      <guid>https://daudrain.github.io/categories/management/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

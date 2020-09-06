@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David Audrain</title>
-    <link>https://daudrain.github.io/</link>
-    <description>Recent content on David Audrain</description>
+    <title>management on David Audrain</title>
+    <link>https://daudrain.github.io/categories/management/</link>
+    <description>Recent content in management on David Audrain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2017-2020 - David Audrain</copyright>
     <lastBuildDate>Sun, 06 Sep 2020 22:39:19 +0200</lastBuildDate>
     
-	<atom:link href="https://daudrain.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://daudrain.github.io/categories/management/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About Me</title>
-      <link>https://daudrain.github.io/about/</link>
-      <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://daudrain.github.io/about/</guid>
-      <description>I am David Audrain. I live in Bordeaux, France.</description>
-    </item>
     
     <item>
       <title>Becoming the Boss : notes</title>
