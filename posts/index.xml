@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2017-2020 - David Audrain</copyright>
-    <lastBuildDate>Sun, 06 Sep 2020 22:39:19 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 28 Dec 2020 23:12:06 +0100</lastBuildDate>
     
 	<atom:link href="https://daudrain.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Norme IEC 62304 : notes</title>
+      <link>https://daudrain.github.io/posts/norme-iec-62304-notes/</link>
+      <pubDate>Mon, 28 Dec 2020 23:12:06 +0100</pubDate>
+      
+      <guid>https://daudrain.github.io/posts/norme-iec-62304-notes/</guid>
+      <description>Ce billet regroupe des informations relatives à la norme IEC 62304.</description>
+    </item>
     
     <item>
       <title>Becoming the Boss : notes</title>
@@ -18,8 +27,7 @@
       <pubDate>Sun, 06 Sep 2020 22:39:19 +0200</pubDate>
       
       <guid>https://daudrain.github.io/posts/becoming-the-boss-notes/</guid>
-      <description>Ce billet sont des notes prises à la lecture de l&amp;rsquo;article Becoming The Boss écrit par Linda A. Hill, professeur à la Harvard Business School.
-Devenir manager Avant de devenir manager, les succès dépendaient des expertises et actions personnelles.</description>
+      <description>Ce billet sont des notes prises à la lecture de l&amp;rsquo;article &lt;a href=&#34;https://hbr.org/2007/01/becoming-the-boss&#34;&gt;Becoming The Boss&lt;/a&gt; écrit par &lt;a href=&#34;https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6479&#34;&gt;Linda A. Hill&lt;/a&gt;, professeur à la Harvard Business School.</description>
     </item>
     
   </channel>

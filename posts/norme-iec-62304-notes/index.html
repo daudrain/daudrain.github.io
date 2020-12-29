@@ -1,0 +1,192 @@
+<!doctype html>
+
+<html lang="en-us">
+
+<head>
+  <title>David Audrain</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="The HTML5 Herald" />
+  <meta name="author" content="David Audrain" />
+  <meta name="generator" content="Hugo 0.74.3" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto+Slab|Ruda" />
+  <link rel="stylesheet" type="text/css" href="https://daudrain.github.io/css/styles.css" />
+</head>
+
+<body>
+  <div id="container">
+    <header>
+      <h1>
+                <a href="https://daudrain.github.io/">David Audrain</a>
+            </h1>
+
+      <ul id="social-media">
+        
+        <li><a href="https://twitter.com/david_audrain"><i class="fa fa-twitter fa-lg" aria-hidden="true"></i></a></li>
+         
+        <li><a href="https://www.linkedin.com/in/davidaudrain"><i class="fa fa-linkedin fa-lg" aria-hidden="true"></i></a></li>
+         
+        <li><a href="https://github.com/daudrain"><i class="fa fa-github fa-lg" aria-hidden="true"></i></a></li>
+           
+      </ul>
+      
+      <p><em>Catch segmentation fault</em></p>
+      
+    </header>
+
+    
+<nav>
+    <ul>
+        
+        <li>
+            <a class="" href="https://daudrain.github.io/about/">
+                <i class="fa-li fa  fa-lg"></i><span>About Me</span>
+            </a>
+        </li>
+        
+    </ul>
+</nav>
+
+    <main>
+
+
+
+
+<article>
+
+    <h1>Norme IEC 62304 : notes</h1>
+
+    
+        <aside>
+    <ul>
+        <li>
+            <time class="post-date" datetime="2020-12-28T23:12:06&#43;01:00">Dec 28, 2020</time>
+        </li>
+        
+        
+        <li>
+            Categories: 
+            <em>
+                
+                    
+                    <a href="https://daudrain.github.io/categories/iec-62304/">IEC 62304</a>
+                
+                    , 
+                    <a href="https://daudrain.github.io/categories/software-life-cycle-process/">software life cycle process</a>
+                
+            </em>
+        </li>
+        
+
+        
+        <li>
+            <em>
+                
+                    
+                    <a href="https://daudrain.github.io/tags/notes/">#notes</a>
+                
+            </em>
+        </li>
+        
+
+        <li>2 min read</li>
+    </ul>
+</aside>
+    
+
+    <h1 id="en-bref">En bref</h1>
+<table>
+<thead>
+<tr>
+<th>Quoi</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Page officielle</td>
+<td><a href="https://www.iso.org/fr/standard/38421.html">FR</a>/<a href="https://www.iso.org/standard/38421.html">EN</a></td>
+</tr>
+<tr>
+<td>Titre</td>
+<td>Logiciels de dispositifs médicaux — Processus du cycle de vie du logiciel</td>
+</tr>
+<tr>
+<td>Date de publication</td>
+<td>Juin 2006</td>
+</tr>
+<tr>
+<td>Résumé</td>
+<td>Définit les exigences du cycle de vie des logiciels de dispositifs médicaux. L&rsquo;ensemble des processus, activités et tâches décrit dans la présente norme constitue un cadre commun pour les processus du cycle de vie des logiciels de dispositifs médicaux.</td>
+</tr>
+</tbody>
+</table>
+<h2 id="amendement">Amendement</h2>
+<p>IEC 62304 a été amendée par la publication de <a href="https://www.iso.org/fr/standard/64686.html">IEC 62304:2006/AMD 1:2015</a> en juin 2015.</p>
+<h2 id="bientôt-remplacée">Bientôt remplacée?</h2>
+<p>Une nouvelle norme <a href="https://www.iso.org/fr/standard/71604.html">IEC/DIS 62304.3</a> est en cours de finalisation.</p>
+<p>Son titre <em>Logiciels de santé — Processus du cycle de vie du logiciel</em> tend à généraliser l&rsquo;application de la norme à tout logiciel de santé.</p>
+<h1 id="quels-sont-les-objectifs-de-cette-norme">Quels sont les objectifs de cette norme?</h1>
+<p>Elle a pour but de définir un cadre pour assurer le suivi, la traçabilité des exigences du logiciel, de l&rsquo;implémentation de ces exigences et de la vérification du bon fonctionnement des exigences du logiciel.</p>
+<p>Ce suivi est réalisé via de la documentation. Tickets Jira, Pull/Merge request peuvent constituer en partie cette documentation.</p>
+<p>Le niveau de détail de la documentation dépend de la classe du logiciel. La norme définit 3 classes : A, B, C</p>
+<p>La classe C nécessite une documentation très détaillée incluant toutes les méthodes de vos classes&hellip;</p>
+<p>La norme <strong>ne</strong> définit <strong>pas</strong> une méthode de développement telle que cycle en V, agile ou autre.</p>
+<p>Ce <a href="https://medium.com/merantix/certifying-a-medical-device-as-a-startup-part-2-v-model-doesnt-mean-waterfall-development-41a927480278">billet Médium</a> explique tout celà plus longuement.</p>
+<h1 id="autres-normes">Autres normes</h1>
+<p>En plus de la norme <em>IEC 62304</em> d&rsquo;autres normes sont à satisfaire:</p>
+<ul>
+<li><a href="https://www.iso.org/fr/standard/59752.html">ISO 13485:2016</a> : Dispositifs médicaux — Systèmes de management de la qualité — Exigences à des fins réglementaires
+<ul>
+<li>Cette norme est accessible en <a href="https://www.iso.org/obp/ui#iso:std:iso:13485:ed-3:v1:fr">lecture</a>.</li>
+</ul>
+</li>
+<li><a href="https://www.iso.org/fr/standard/72704.html">ISO 14971:2019</a> : Dispositifs médicaux — Application de la gestion des risques aux dispositifs médicaux</li>
+<li><a href="https://www.iso.org/fr/standard/63179.html">IEC 62366-1:2015</a> : Dispositifs médicaux — Partie 1: Application de l&rsquo;ingénierie de l&rsquo;aptitude à l&rsquo;utilisation aux dispositifs médicaux</li>
+</ul>
+<h1 id="ressources">Ressources</h1>
+<h2 id="entreprises-qui-proposent-leurs-services-dans-le-domaine">Entreprises qui proposent leurs services dans le domaine</h2>
+<p>La lecture de <a href="https://medium.com/merantix/certifying-a-medical-device-as-a-startup-part-1-how-not-to-fail-in-the-first-month-76aa9bf4ae86">ce billet</a> donne du contexte sur le monde de la réglementation, et des professionnels qui aident les entreprises à satisfaire à la réglementation.</p>
+<ul>
+<li><a href="http://www.md101consulting.com/en">MD 101</a> propose ses services et aussi un <a href="https://blog.cm-dm.com/index.php">blog fourni</a>
+<ul>
+<li><a href="https://blog.cm-dm.com/post/2013/02/06/How-to-bring-legacy-software-into-line-with-IEC-62304-part1">How to bring legacy software into line with IEC 62304?</a></li>
+<li><a href="https://blog.cm-dm.com/post/2013/11/08/How-to-develop-a-smartphone-App-to-be-FDA-cleared-or-CE-Marked-part-1">How to develop a smartphone App to be FDA-cleared or CE Marked?</a></li>
+</ul>
+</li>
+<li><a href="https://www.johner-institute.com/articles/software-iec-62304/">Johner-Institut</a> propose ses services, des vidéos e-learning et de nombreuses fiches</li>
+</ul>
+
+
+</article>
+
+
+<section class="post-nav">
+    <ul>
+        
+        <li>
+            <a href="https://daudrain.github.io/posts/becoming-the-boss-notes/"><i class="fa fa-chevron-circle-left"></i> Becoming the Boss : notes</a>
+        </li>
+        
+        
+    </ul>
+</section>
+    
+
+
+
+
+
+</main>
+    <footer>
+        <h6>Copyright © 2017-2020 - David Audrain | 
+            Rendered by <a href="https://gohugo.io" title="Hugo">Hugo</a> with
+            theme <a href="https://github.com/avianto/hugo-kiera">Kiera</a></h6>
+    </footer>
+</div>
+<script src="https://daudrain.github.io/js/scripts.js"></script>
+</body>
+
+</html>
