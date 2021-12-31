@@ -6,8 +6,7 @@
     <description>Recent content on David Audrain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2017-2021 - David Audrain</copyright>
-    <lastBuildDate>Mon, 28 Dec 2020 23:12:06 +0100</lastBuildDate>
+    <copyright>Copyright &amp;copy; 2017-2022 - David Audrain</copyright>
     
 	<atom:link href="https://daudrain.github.io/index.xml" rel="self" type="application/rss+xml" />
     
@@ -18,25 +17,9 @@
       <pubDate>Wed, 13 Dec 2017 00:00:00 +0000</pubDate>
       
       <guid>https://daudrain.github.io/about/</guid>
-      <description>I am David Audrain. I live in Bordeaux, France.</description>
-    </item>
-    
-    <item>
-      <title>Norme IEC 62304 : notes</title>
-      <link>https://daudrain.github.io/posts/norme-iec-62304-notes/</link>
-      <pubDate>Mon, 28 Dec 2020 23:12:06 +0100</pubDate>
-      
-      <guid>https://daudrain.github.io/posts/norme-iec-62304-notes/</guid>
-      <description>Ce billet regroupe des informations relatives à la norme IEC 62304.</description>
-    </item>
-    
-    <item>
-      <title>Becoming the Boss : notes</title>
-      <link>https://daudrain.github.io/posts/becoming-the-boss-notes/</link>
-      <pubDate>Sun, 06 Sep 2020 22:39:19 +0200</pubDate>
-      
-      <guid>https://daudrain.github.io/posts/becoming-the-boss-notes/</guid>
-      <description>Ce billet sont des notes prises à la lecture de l&amp;rsquo;article &lt;a href=&#34;https://hbr.org/2007/01/becoming-the-boss&#34;&gt;Becoming The Boss&lt;/a&gt; écrit par &lt;a href=&#34;https://www.hbs.edu/faculty/Pages/profile.aspx?facId=6479&#34;&gt;Linda A. Hill&lt;/a&gt;, professeur à la Harvard Business School.</description>
+      <description>I am lead software engineer at Deski, ex engineering manager at Coyote.
+At Deski, I am currently
+ leading Heart Focus Android application development using Qt/QML/C++ stack building tools to acquire echo exams using ImFusion Suite doing some data engineering around acquired echo exams using Python/Numpy/Pandas/Matplolib  I spent 10 years at Coyote, heading up mobile &amp;amp; automotive software development teams, and Bordeaux office.</description>
     </item>
     
   </channel>
