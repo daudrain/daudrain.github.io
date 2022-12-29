@@ -6,7 +6,16 @@
     <description>Recent content on David Audrain</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright &amp;copy; 2017-2022 - David Audrain</copyright><atom:link href="https://daudrain.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright &amp;copy; 2017-2023 - David Audrain</copyright><atom:link href="https://daudrain.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books</title>
+      <link>https://daudrain.github.io/books/</link>
+      <pubDate>Thu, 29 Dec 2022 20:41:19 +0100</pubDate>
+      
+      <guid>https://daudrain.github.io/books/</guid>
+      <description>Software Craft (French)  Cyril Martraire, Arnaud Thiefaine, Dorra Bartaguiz, Fabien Hiegel et Houssam Fakih proposent à travers ce livre une synthèse des méthodes et pratiques de développement logciel: TDD, BDD, Clean Code, Pair programming, techniques de refactoring, etc&amp;hellip;</description>
+    </item>
+    
     <item>
       <title>About Me</title>
       <link>https://daudrain.github.io/about/</link>
@@ -15,7 +24,7 @@
       <guid>https://daudrain.github.io/about/</guid>
       <description>I am lead software engineer at DESKi, ex engineering manager at Coyote.
 At DESKi, I am currently
- leading Heart Focus Android application development using Qt/QML/C++ stack building tools to acquire echo exams using ImFusion Suite doing some data engineering around acquired echo exams using Python/Numpy/Pandas/Matplotlib  I spent 10 years at Coyote, heading up mobile &amp;amp; automotive software development teams, and Bordeaux office.</description>
+ leading Heart Focus Android application development using Qt/QML/C++ stack building tools to acquire echo exams using ImFusion Suite doing some data engineering around acquired echo exams using Python/Numpy/Pandas/Matplotlib  Before that I spent 10 years at Coyote, heading up mobile &amp;amp; automotive software development teams, and Bordeaux office.</description>
     </item>
     
   </channel>
